@@ -6,15 +6,15 @@ Removes duplicate songs in your music folder
 Modes
 =====
 
-1. Quick
+- Quick
 
 Just compares file names
 
-2. Normal
+- Normal
 
 Compares file names, if the file name resembles another file an audio footprint is compared
 
-3. Slow
+- Slow
 
 Only Audio footprint 
 
